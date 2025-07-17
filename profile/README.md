@@ -1,34 +1,26 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
-### Languages
 <div align="center">
-  <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,java,c,cpp" height="60" alt="typescript logo"  />
+  <h2>Languages, frameworks & libraries</h2>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,c,cpp,react,next,tailwind,nodejs,spring" height="60" alt="typescript logo"  />
 </div>
 
-### Other tools
-
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <h2>DevOps & more</h2>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,mysql,postgres,figma,photoshop" height="60" alt="typescript logo"  />
 </div>
 
-###
+### 
 
-<img src="https://raw.githubusercontent.com/isqdev/isqdev/output/snake.svg" alt="Snake animation" />
+###
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isqdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isqdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
+    <h2>Stats</h2>
+  <img src="https://streak-stats.demolab.com?user=isqdev&locale=en&mode=daily&background=243B55&currStreakNum=50fa7b&sideNums=f8f8f2&sideLabels=50fa7b&dates=ffffff&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=isqdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=0,141E30,243B55&text_color=fff&title_color=50fa7b&icon_color=50fa7b&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isqdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&bg_color=0,141E30,243B55&text_color=fff&title_color=50fa7b&hide_border=true&order=2" height="150" alt="languages graph"/>
 </div>
 
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isqdev/isqdev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isqdev/isqdev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/isqdev/isqdev/output/pacman-contribution-graph.svg">
-</picture>
